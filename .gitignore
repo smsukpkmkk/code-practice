@@ -1,0 +1,5 @@
+# IntelliJ / CLion 配置
+.idea/
+
+# CMake 构建目录
+cmake-build-debug/
